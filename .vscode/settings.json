@@ -1,0 +1,9 @@
+{
+  "editor.wordWrap": "on",
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cn\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+  "vitest.commandLine": "npx vitest",
+  "vitest.enable": true,
+}
