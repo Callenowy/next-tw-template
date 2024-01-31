@@ -41,4 +41,4 @@ This project uses `semantic-release` for version management, ensuring automated 
 
 ## <a name="license">License</a>
 
-The Stack App is software licensed under the [MIT license](LICENSE).
+The Next.js + Tailwind template is software licensed under the [MIT license](LICENSE).
